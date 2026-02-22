@@ -25,9 +25,9 @@ When I'm not working with data, I enjoy reading non fiction books, creating cont
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Building an interactive sales dashboard on PowerBi   
+- **Project B:** Making a clear spatial map using QGIS and Google Earth 
+- **Content Creation:** Utilizing techincal writing skills to help beginners understand how to use softwares
 
 ## 🌱 Currently Learning 
 
