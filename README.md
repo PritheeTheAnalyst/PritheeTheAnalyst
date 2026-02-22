@@ -1,9 +1,9 @@
-## Hi there, I'm [Precious] 👋
+## Hi there, I'm Precious 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[PowerBi+Expert];" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=CPD+Certified+Data+Analyst+%7C;Turning+Data+into+Actionable+Insights;Excel+and+PowerBi+Expert;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -18,7 +18,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [reading non fiction books, creating content, and web surfing, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy reading non fiction books, creating content, and web surfing. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-PritheeTheAnalyst.github.io/)
@@ -31,8 +31,8 @@ When I'm not working with data, I enjoy [reading non fiction books, creating con
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Geospatial analytics with tools like QGIS, Google Earth Studio
+- Technical writing 
 
 ## 🛠️ Technical Skillset
 
